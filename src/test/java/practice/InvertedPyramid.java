@@ -7,6 +7,7 @@ public class InvertedPyramid {
 	public static void main(String[] args) {
 		
 		System.out.println("Made changes in Asia");
+		System.out.println("Made changes in Asia 2nd time");
 
 
 		int k=1;
