@@ -5,6 +5,8 @@ import java.util.Iterator;
 public class InvertedPyramid {
 
 	public static void main(String[] args) {
+		
+		System.out.println("Made changes in Asia");
 
 
 		int k=1;
